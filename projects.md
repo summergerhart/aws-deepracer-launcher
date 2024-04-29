@@ -1,8 +1,6 @@
-# AWS DeepRacer sample projects
+# AWS DeepRacer Sample Projects
 
-If you create your own project, please email us at deepraceropensource@amazon.com and we’d be happy to feature it on the [Projects](https://github.com/aws-deepracer/aws-deepracer-launcher/blob/main/projects.md) list.
-
-## 1. Follow the Leader
+## Follow the Leader
 
 *By the AWS DeepRacer team*
 
@@ -16,7 +14,7 @@ Learn to deploy an object-detection model that enables the AWS DeepRacer device 
 
 **[See Instructions on GitHub](https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project)**
 
-## 2. Mapping
+## Mapping
 
 *By the AWS DeepRacer team*
 
@@ -30,7 +28,7 @@ In this project, use the AWS DeepRacer car to draw a map with SLAM (Simultaneous
 
 **[See Instructions on GitHub](https://github.com/aws-deepracer/aws-deepracer-mapping-sample-project)**
 
-## 3. Off Road
+## Off Road
 
 *By the AWS DeepRacer team*
 
@@ -42,12 +40,9 @@ Use a series of QR codes as waypoints to navigate the AWS DeepRacer device aroun
 
 **[See Instructions on GitHub](https://github.com/aws-deepracer/aws-deepracer-offroad-sample-project)**
 
+# Community Projects
 
-
-# Community projects
-
-
-## 1. DeepBlaster
+## DeepBlaster
 
 *By [Chris Miller](https://www.linkedin.com/in/chris-miller-6470751/), CEO of Cloud Brigade*
 
@@ -63,7 +58,7 @@ Use object-detection models to identify objects and fire at them using a motoriz
 
 
 
-## 2. DeepDriver
+## DeepDriver
 
 *By [Jochem Lugtenburg](https://www.linkedin.com/in/jochem-lugtenburg-8285b8141/), Developer at Relive, 2019/2020 DeepRacer Championship Cup finalist*
 
@@ -78,7 +73,7 @@ Mimics a real-world car that starts and stops at traffic lights and stop signs. 
 **[See Instructions on GitHub](https://github.com/jochem725/deepdriver)**
 
 
-## 3. RoboCat
+## RoboCat
 
 *By [Martin Paradesi](https://www.linkedin.com/in/msrparadesi/), [Organizer of AWS Machine Learning Community: NYC meetup](https://www.meetup.com/AWS-Machine-Learning-Community-NYC/)*
 
