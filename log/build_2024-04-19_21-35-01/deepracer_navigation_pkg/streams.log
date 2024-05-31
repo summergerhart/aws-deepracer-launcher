@@ -1,0 +1,41 @@
+[3.186s] Invoking command in '/root/deepracer_ws/aws-deepracer-launcher/aws-deepracer-navigation-pkg/deepracer_navigation_pkg': AMENT_PREFIX_PATH=/root/deepracer_ws/aws-deepracer-launcher/install/deepracer_interfaces_pkg:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/deepracer_ws/aws-deepracer-launcher/install/deepracer_interfaces_pkg LD_LIBRARY_PATH=/root/deepracer_ws/aws-deepracer-launcher/install/deepracer_interfaces_pkg/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/prefix_override:/root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/lib/python3.8/site-packages:/root/deepracer_ws/aws-deepracer-launcher/install/deepracer_interfaces_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/deepracer_navigation_pkg build --build-base /root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/build install --record /root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/install.log --install-scripts $base/lib/deepracer_navigation_pkg --single-version-externally-managed install_data
+[4.063s] running egg_info
+[4.066s] creating ../../build/deepracer_navigation_pkg/deepracer_navigation_pkg.egg-info
+[4.067s] writing ../../build/deepracer_navigation_pkg/deepracer_navigation_pkg.egg-info/PKG-INFO
+[4.069s] writing dependency_links to ../../build/deepracer_navigation_pkg/deepracer_navigation_pkg.egg-info/dependency_links.txt
+[4.071s] writing entry points to ../../build/deepracer_navigation_pkg/deepracer_navigation_pkg.egg-info/entry_points.txt
+[4.072s] writing requirements to ../../build/deepracer_navigation_pkg/deepracer_navigation_pkg.egg-info/requires.txt
+[4.074s] writing top-level names to ../../build/deepracer_navigation_pkg/deepracer_navigation_pkg.egg-info/top_level.txt
+[4.238s] writing manifest file '../../build/deepracer_navigation_pkg/deepracer_navigation_pkg.egg-info/SOURCES.txt'
+[4.364s] reading manifest file '../../build/deepracer_navigation_pkg/deepracer_navigation_pkg.egg-info/SOURCES.txt'
+[4.368s] writing manifest file '../../build/deepracer_navigation_pkg/deepracer_navigation_pkg.egg-info/SOURCES.txt'
+[4.369s] running build
+[4.370s] running build_py
+[4.372s] creating /root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/build
+[4.373s] creating /root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/build/lib
+[4.373s] creating /root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/build/lib/deepracer_navigation_pkg
+[4.375s] copying deepracer_navigation_pkg/__init__.py -> /root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/build/lib/deepracer_navigation_pkg
+[4.376s] copying deepracer_navigation_pkg/constants.py -> /root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/build/lib/deepracer_navigation_pkg
+[4.378s] copying deepracer_navigation_pkg/deepracer_navigation_node.py -> /root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/build/lib/deepracer_navigation_pkg
+[4.380s] running install
+[4.383s] running install_lib
+[4.388s] creating /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/lib/python3.8/site-packages/deepracer_navigation_pkg
+[4.389s] copying /root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/build/lib/deepracer_navigation_pkg/__init__.py -> /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/lib/python3.8/site-packages/deepracer_navigation_pkg
+[4.390s] copying /root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/build/lib/deepracer_navigation_pkg/constants.py -> /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/lib/python3.8/site-packages/deepracer_navigation_pkg
+[4.392s] copying /root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/build/lib/deepracer_navigation_pkg/deepracer_navigation_node.py -> /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/lib/python3.8/site-packages/deepracer_navigation_pkg
+[4.395s] byte-compiling /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/lib/python3.8/site-packages/deepracer_navigation_pkg/__init__.py to __init__.cpython-38.pyc
+[4.400s] byte-compiling /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/lib/python3.8/site-packages/deepracer_navigation_pkg/constants.py to constants.cpython-38.pyc
+[4.403s] byte-compiling /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/lib/python3.8/site-packages/deepracer_navigation_pkg/deepracer_navigation_node.py to deepracer_navigation_node.cpython-38.pyc
+[4.409s] running install_data
+[4.410s] creating /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/share/ament_index
+[4.411s] creating /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/share/ament_index/resource_index
+[4.412s] creating /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/share/ament_index/resource_index/packages
+[4.413s] copying resource/deepracer_navigation_pkg -> /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/share/ament_index/resource_index/packages
+[4.415s] copying package.xml -> /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/share/deepracer_navigation_pkg
+[4.416s] copying launch/deepracer_navigation_pkg_launch.py -> /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/share/deepracer_navigation_pkg
+[4.418s] running install_egg_info
+[4.424s] Copying ../../build/deepracer_navigation_pkg/deepracer_navigation_pkg.egg-info to /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/lib/python3.8/site-packages/deepracer_navigation_pkg-0.0.1-py3.8.egg-info
+[4.429s] running install_scripts
+[4.491s] Installing deepracer_navigation_node script to /root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/lib/deepracer_navigation_pkg
+[4.493s] writing list of installed files to '/root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/install.log'
+[4.588s] Invoked command in '/root/deepracer_ws/aws-deepracer-launcher/aws-deepracer-navigation-pkg/deepracer_navigation_pkg' returned '0': AMENT_PREFIX_PATH=/root/deepracer_ws/aws-deepracer-launcher/install/deepracer_interfaces_pkg:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/root/deepracer_ws/aws-deepracer-launcher/install/deepracer_interfaces_pkg LD_LIBRARY_PATH=/root/deepracer_ws/aws-deepracer-launcher/install/deepracer_interfaces_pkg/lib:${LD_LIBRARY_PATH} PYTHONPATH=/root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/prefix_override:/root/deepracer_ws/aws-deepracer-launcher/install/deepracer_navigation_pkg/lib/python3.8/site-packages:/root/deepracer_ws/aws-deepracer-launcher/install/deepracer_interfaces_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/deepracer_navigation_pkg build --build-base /root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/build install --record /root/deepracer_ws/aws-deepracer-launcher/build/deepracer_navigation_pkg/install.log --install-scripts $base/lib/deepracer_navigation_pkg --single-version-externally-managed install_data
